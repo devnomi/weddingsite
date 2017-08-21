@@ -1,0 +1,130 @@
+//menu section
+
+<section>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="row cake">
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                            <div class="col-md-4">
+                                <img class="img-responsive" src="images/pic5.jpeg">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <h1>02/STARTERS<br>&DISHES</h1>
+                        <p class="dish">There are many variations of passagrd of Lorem available, but the majority have suffered alteration in some form,by injected humour,or new modern randomised words which don't look even slightly believeable.
+                        </p>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h3 class="color-red">MURG PHILOUIES</h3>
+                                <P class="dish1">Fried parwan-cakes flavoured with green chillies, coriander, carrots & garlic. </P>
+                            </div>
+                            <div class="col-md-12">
+                                <h3 class="color-red">MURG PHILOUIES</h3>
+                                <P class="dish1">Fried parwan-cakes flavoured with green chillies, coriander, carrots & garlic. </P>
+                            </div>
+                            <div class="col-md-12">
+                                <h3 class="color-red">MURG PHILOUIES</h3>
+                                <P class="dish1">Fried parwan-cakes flavoured with green chillies, coriander, carrots & garlic. </P>
+                            </div>
+                            <div class="col-md-12">
+                                <h3 class="color-red">MURG PHILOUIES</h3>
+                                <P class="dish1">Fried parwan-cakes flavoured with green chillies, coriander, carrots & garlic. </P>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+        
+        
+        
+        
+        
+        
+        
+        
+        <div id="hot">
+                <h2 class="text-center">DON'T MISS OUT!THIS WEEK HOT DEALS</h2>
+                <p class="text-center deal-para">There are many variations of passagrd of Lorem available, but the majority have suffered alteration in some form,<br>by injected humour,or new modern randomised words which don't look even slightly believeable.
+                </p>
+
+
+                <div class="container piza-deal">
+                    <div class="row">
+                        <div class="deal1">
+                            <div class="col-md-4"><img class="img-100" src="images/pic9.jpeg"> 
+                                <h4>Order any two <span class="color-red">Pizzas</span> to get one free drink.</h4>
+                                <p>
+                                    kjsdhkjlrewhkjhkrejl
+                                </p>
+
+                            </div>
+                        </div>
+
+                        <div class="deal1">
+                            <div class="col-md-4 "><img class="img-100" src="images/pic9.jpeg"> 
+                                <h4>This Weekend 25% OFF for any meal.</h4>
+                                <p>
+                                    kjsdhkjlrewhkjhkrejl
+                                </p>
+
+                            </div>
+                        </div>
+
+                        <div class="deal1">
+                            <div class="col-md-4"><img class="img-100" src="images/pic9.jpeg">
+                                <h4>Buy one drink & get one free.</h4>
+                                <p>
+                                    kjsdhkjlrewhkjhkrejl
+                                </p>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+                <div class="img2">
+                    <p class="text-center deal-para-me"><i>When I was trying to impress kate, I was trying to cook these amazing fancy dinner and what would happen was I<br>
+                        would burn something would overspill, something would catch on fire, she would be sitting in the<br>
+                        background,and taking control of the whole situation, so I was quite glad she was there at the time.
+                        </i>
+                    </p>
+
+                </div>
+            </div>
